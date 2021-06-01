@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+
+Hello and behold! I declare my tutorial edits. 
